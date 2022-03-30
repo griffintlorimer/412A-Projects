@@ -12,6 +12,6 @@ Created a reflex agent based on sereral different parameters.  Initially created
 Autograder score: 20/20
 
 ## [Project 3: Reinforcement Learning](https://github.com/griffintlorimer/412A-Projects/tree/main/project3)
-Created several different agents using value iteration, Q-learning, and an Epsilon Greedy approach to solve known Markov decision processed.
+Created several different agents using value iteration, Q-learning, and an Epsilon Greedy approach to solve known Markov decision processes.
 
 Autograder score: 25/25
